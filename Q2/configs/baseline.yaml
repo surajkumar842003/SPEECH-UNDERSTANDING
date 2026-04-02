@@ -1,0 +1,35 @@
+# Baseline ECAPA-TDNN config
+experiment_name: baseline_ecapa
+seed: 42
+
+data:
+  dataset: librispeech
+  subset: train-clean-100
+  sample_rate: 16000
+  n_mels: 80
+  n_fft: 512
+  win_length: 400
+  hop_length: 160
+  segment_duration: 2.0
+  min_duration: 2.0
+
+model:
+  type: baseline
+  encoder: ecapa_tdnn
+  embedding_dim: 192
+  channels: 512
+
+training:
+  epochs: 3
+  batch_size: 32
+  lr: 0.001
+  weight_decay: 1.0e-4
+  patience: 2
+  min_delta: 0.1
+  save_dir: checkpoints
+  log_interval: 50
+
+loss:
+  type: aam_softmax
+  margin: 0.2
+  scale: 30

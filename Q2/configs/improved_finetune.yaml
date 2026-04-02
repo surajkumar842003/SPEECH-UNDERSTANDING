@@ -1,0 +1,53 @@
+seed: 42
+
+data:
+  dataset: librispeech
+  subset: train-clean-100
+  sample_rate: 16000
+  n_mels: 80
+  n_fft: 512
+  win_length: 400
+  hop_length: 160
+  segment_duration: 2.0
+  min_duration: 2.0
+  max_frames: 200
+  num_workers: 1
+  pin_memory: true
+  augmentation:
+    noise_prob: 0.5
+    snr_range: [5, 20]
+
+model:
+  channels: 512
+  embedding_dim: 192
+  spk_dim: 96           
+  env_dim: 96           
+  disc_hidden: 128     
+  disc_out: 64         
+  proj_dim: 64          
+
+loss:
+  aam_margin: 0.2
+  aam_scale: 30
+  triplet_margin: 0.2
+  lambda_spk: 1.0
+  lambda_recons: 0.5
+  lambda_env_env: 1.0
+  lambda_adv: 0.3
+  lambda_corr: 0.3
+
+improvement:
+  use_contrastive: true
+  contrastive_temp: 0.1
+  lambda_contrast: 0.5
+
+training:
+  epochs: 3
+  batch_size: 64
+  lr: 0.0001
+  weight_decay: 0.00001
+  patience: 2
+  min_delta: 0.05
+  log_interval: 10
+  save_dir: checkpoints
+  warmstart_ckpt: checkpoints/improved_best.pt

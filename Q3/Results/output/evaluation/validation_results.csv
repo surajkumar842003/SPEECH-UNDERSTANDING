@@ -1,0 +1,6 @@
+Metric,Value,Status
+FAD,9.695,EXCELLENT
+DNSMOS_orig,3.9466,Good
+DNSMOS_trans,4.5778,Good
+DNSMOS_drop,-0.6313,PASS
+SNR_dB,-3.11,CHECK

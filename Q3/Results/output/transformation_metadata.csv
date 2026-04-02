@@ -1,0 +1,101 @@
+pair_idx,speaker_id,gender,direction,transcript,orig_path,trans_path,dur_s
+0,84,F,F2M,BY HIS DEFAULT SHORT WHILE HE SOJOURNED HERE BY HIS DEFAULT TO WEEPING AND TO TO,./Results/examples/pair_000_orig_F.wav,./Results/examples/pair_000_trans_F2M.wav,6.0
+1,1993,F,F2M,HIS FACE HAD A LOOK OF WEARINESS AND PLEASURE LIKE THAT OF SICK PEOPLE WHEN THEY,./Results/examples/pair_001_orig_F.wav,./Results/examples/pair_001_trans_F2M.wav,6.0
+2,1462,F,F2M,EMERGING AT EUSTON AT HALF PAST THREE O'CLOCK IN THE AFTERNOON ALEXANDER HAD HIS,./Results/examples/pair_002_orig_F.wav,./Results/examples/pair_002_trans_F2M.wav,6.0
+3,3081,F,F2M,HE WANTS ME TO STAND READY TO OBEY ANY SUMMONS THE POLICE MAY SEND ME,./Results/examples/pair_003_orig_F.wav,./Results/examples/pair_003_trans_F2M.wav,5.34
+4,2803,M,M2F,ONCE THERE WAS A FATHER WHO THOUGHT HE WOULD BUILD FOR HIS CHILDREN A BEAUTIFUL ,./Results/examples/pair_004_orig_M.wav,./Results/examples/pair_004_trans_M2F.wav,6.0
+5,251,M,M2F,BILL CHANDLER THE ZOOLOGIST HAD BEEN GOING DEEPER AND DEEPER INTO THE OLD SEA BO,./Results/examples/pair_005_orig_M.wav,./Results/examples/pair_005_trans_M2F.wav,6.0
+6,2078,M,M2F,TO MAKE HOT BUTTERED TOAST SEVENTEEN TWENTY SIX,./Results/examples/pair_006_orig_M.wav,./Results/examples/pair_006_trans_M2F.wav,4.87
+7,1993,F,F2M,HER CRIES BROUGHT HER HUSBAND DOWN TO TRY WITH HIS ACHING HEART TO COMFORT HERS,./Results/examples/pair_007_orig_F.wav,./Results/examples/pair_007_trans_F2M.wav,5.28
+8,652,M,M2F,THE POODLE DOG HAS A HOTEL ATTACHMENT WHERE ONE MAY GET ROOMS OR FULL APARTMENTS,./Results/examples/pair_008_orig_M.wav,./Results/examples/pair_008_trans_M2F.wav,4.85
+9,1988,F,F2M,SHE GOT UP ON HER KNEES AND WRUNG HER HANDS,./Results/examples/pair_009_orig_F.wav,./Results/examples/pair_009_trans_F2M.wav,3.085
+10,7850,F,F2M,FOUR AND TWENTY HOURS AGO AND HE DEEMED HIMSELF THE MOST MISERABLE AND FORLORN O,./Results/examples/pair_010_orig_F.wav,./Results/examples/pair_010_trans_F2M.wav,6.0
+11,5694,M,M2F,THE VOICE APPEARED TO BE OVERHEAD,./Results/examples/pair_011_orig_M.wav,./Results/examples/pair_011_trans_M2F.wav,2.385
+12,1462,F,F2M,YES HILDA I KNOW THAT HE SAID SIMPLY,./Results/examples/pair_012_orig_F.wav,./Results/examples/pair_012_trans_F2M.wav,3.975
+13,1462,F,F2M,COULD YOU COULD YOU SIT DOWN AND TALK ABOUT IT QUIETLY BARTLEY AS IF I WERE A FR,./Results/examples/pair_013_orig_F.wav,./Results/examples/pair_013_trans_F2M.wav,6.0
+14,1988,F,F2M,I EXPLAIN THAT I'M TAKING MUSIC AND ALSO BIOLOGY ALGEBRA ENGLISH AND FRENCH MUSI,./Results/examples/pair_014_orig_F.wav,./Results/examples/pair_014_trans_F2M.wav,6.0
+15,251,M,M2F,THIS MAN WAS CLAD IN A BROWN CAMEL HAIR ROBE AND SANDALS AND A GREEN TURBAN WAS ,./Results/examples/pair_015_orig_M.wav,./Results/examples/pair_015_trans_M2F.wav,6.0
+16,251,M,M2F,LET'S SEE ABOUT GETTING HELP FOR MISTER FABER,./Results/examples/pair_016_orig_M.wav,./Results/examples/pair_016_trans_M2F.wav,2.615
+17,6313,F,F2M,HE'S A TROUBLE CURER NOT A TROUBLEMAKER EXCEPT FOR HIMSELF,./Results/examples/pair_017_orig_F.wav,./Results/examples/pair_017_trans_F2M.wav,3.795
+18,7976,M,M2F,LET ME ENTER I PRAY YOU TO PASS THE NIGHT UNDER YOUR ROOF,./Results/examples/pair_018_orig_M.wav,./Results/examples/pair_018_trans_M2F.wav,5.21
+19,1462,F,F2M,I NEVER DREAMED IT WOULD BE YOU BARTLEY,./Results/examples/pair_019_orig_F.wav,./Results/examples/pair_019_trans_F2M.wav,2.44
+20,777,M,M2F,THERE WAS AN EXTRAORDINARY FORCE OF SUGGESTION IN THIS POSTURING,./Results/examples/pair_020_orig_M.wav,./Results/examples/pair_020_trans_M2F.wav,3.02
+21,2428,M,M2F,I FELT QUITE LIVELY MYSELF AS I MINGLED WITH THE CHRISTMAS CROWD LOOKING FOR THI,./Results/examples/pair_021_orig_M.wav,./Results/examples/pair_021_trans_M2F.wav,6.0
+22,8842,F,F2M,THEREAFTER THIS SONNET BRED IN ME DESIRE TO WRITE DOWN IN VERSE FOUR OTHER THING,./Results/examples/pair_022_orig_F.wav,./Results/examples/pair_022_trans_F2M.wav,6.0
+23,652,M,M2F,JOHN TAIT IS THE PRESIDING SPIRIT HERE HE HAVING MADE REPUTATION AS CLUB MANAGER,./Results/examples/pair_023_orig_M.wav,./Results/examples/pair_023_trans_M2F.wav,6.0
+24,5694,M,M2F,OUR PICKETS HAD RUN IN AND REPORTED A NIGHT ATTACK,./Results/examples/pair_024_orig_M.wav,./Results/examples/pair_024_trans_M2F.wav,3.125
+25,251,M,M2F,BY WHICH A SOUL IS DRAWN FROM ITS BODY AND ACROSS GULFS OF ECHOING SPACE RETURNE,./Results/examples/pair_025_orig_M.wav,./Results/examples/pair_025_trans_M2F.wav,6.0
+26,6241,M,M2F,HE WAS HOWEVER BUT A CIVIL SERVANT A MAGISTRATE THE GOVERNOR OF THE ISLAND BARON,./Results/examples/pair_026_orig_M.wav,./Results/examples/pair_026_trans_M2F.wav,6.0
+27,7850,F,F2M,THIS VIOLENT AND TRIUMPHANT REVOLUTION IN HIS PROSPECTS AND HIS FORTUNES WAS HAR,./Results/examples/pair_027_orig_F.wav,./Results/examples/pair_027_trans_F2M.wav,6.0
+28,3081,F,F2M,BUT CLEWS THERE ARE ABSOLUTELY NONE,./Results/examples/pair_028_orig_F.wav,./Results/examples/pair_028_trans_F2M.wav,2.73
+29,1272,M,M2F,NOT EXACTLY RETURNED KALIKO,./Results/examples/pair_029_orig_M.wav,./Results/examples/pair_029_trans_M2F.wav,3.18
+30,2277,F,F2M,HIS AMBITION WAS SOME DAY TO BUILD A HOUSE ON THEM,./Results/examples/pair_030_orig_F.wav,./Results/examples/pair_030_trans_F2M.wav,3.215
+31,5694,M,M2F,THE POOR FELLOW STAYED IN THAT WELL ALL NIGHT,./Results/examples/pair_031_orig_M.wav,./Results/examples/pair_031_trans_M2F.wav,2.805
+32,3752,M,M2F,YES ONE OUGHTN'T TO LEAVE THE COLONY WITHOUT SEEING IT SAYS BURGESS IT'S WORTH S,./Results/examples/pair_032_orig_M.wav,./Results/examples/pair_032_trans_M2F.wav,5.545
+33,3081,F,F2M,IT'S THE MOST INEXPLICABLE THERE,./Results/examples/pair_033_orig_F.wav,./Results/examples/pair_033_trans_F2M.wav,3.69
+34,2086,M,M2F,SINCE YOU ARE A FRIEND OF MY COUSIN HEPZIBAH'S YOU SHOULD ASK HER TO SHOW YOU TH,./Results/examples/pair_034_orig_M.wav,./Results/examples/pair_034_trans_M2F.wav,4.835
+35,2428,M,M2F,SOMEONE SNIGGERED,./Results/examples/pair_035_orig_M.wav,./Results/examples/pair_035_trans_M2F.wav,1.96
+36,3752,M,M2F,THAT LAST FELLOW YOU HAD OUGHT TO HAVE BEEN TIED UP HIMSELF,./Results/examples/pair_036_orig_M.wav,./Results/examples/pair_036_trans_M2F.wav,3.76
+37,1993,F,F2M,THEN THE MOTHER LIFTED UP HER VOICE AND WEPT,./Results/examples/pair_037_orig_F.wav,./Results/examples/pair_037_trans_F2M.wav,3.12
+38,1988,F,F2M,SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES,./Results/examples/pair_038_orig_F.wav,./Results/examples/pair_038_trans_F2M.wav,6.0
+39,5338,F,F2M,THIS WORK OF ART WAS THE WONDER OF THE COUNTRY TEN MILES ROUND,./Results/examples/pair_039_orig_F.wav,./Results/examples/pair_039_trans_F2M.wav,4.3
+40,1988,F,F2M,WELL I DON'T THINK YOU SHOULD TURN A GUY'S T V PROGRAM OFF IN THE MIDDLE WITHOUT,./Results/examples/pair_040_orig_F.wav,./Results/examples/pair_040_trans_F2M.wav,5.35
+41,3853,F,F2M,BENNET WILL TAKE THE GARDEN AND GREEN HOUSE OFF MY HANDS THIS AUTUMN FOR A YEAR ,./Results/examples/pair_041_orig_F.wav,./Results/examples/pair_041_trans_F2M.wav,5.8
+42,3752,M,M2F,BEFORE THE TWO CLERGYMEN HAD GOT HALF WAY DOWN THE STEEP PATH THAT LED FROM THE ,./Results/examples/pair_042_orig_M.wav,./Results/examples/pair_042_trans_M2F.wav,6.0
+43,7976,M,M2F,WHILE THEY WERE TALKING THE BEGGAR HAD TAKEN THE APPLES WHICH THE GIRLS WERE TO ,./Results/examples/pair_043_orig_M.wav,./Results/examples/pair_043_trans_M2F.wav,6.0
+44,3000,M,M2F,LARGE FLOCKS DWELL HERE FROM YEAR TO YEAR WINTER AND SUMMER DESCENDING OCCASIONA,./Results/examples/pair_044_orig_M.wav,./Results/examples/pair_044_trans_M2F.wav,6.0
+45,1673,F,F2M,BUT THE RASHNESS OF THESE CONCESSIONS HAS ENCOURAGED A MILDER SENTIMENT OF THOSE,./Results/examples/pair_045_orig_F.wav,./Results/examples/pair_045_trans_F2M.wav,6.0
+46,6241,M,M2F,THREE DAYS LATER MINNETAKI BECAME NEWSOME'S WIFE AT THE HUDSON BAY POST,./Results/examples/pair_046_orig_M.wav,./Results/examples/pair_046_trans_M2F.wav,4.845
+47,6345,F,F2M,I SHALL LOCK UP ALL THE DOORS AND WINDOWS IN THE HOUSE AND THEN I SHALL GIVE YOU,./Results/examples/pair_047_orig_F.wav,./Results/examples/pair_047_trans_F2M.wav,6.0
+48,2035,F,F2M,NOW HIS MIDDLE HORSE WAS BEING ALMOST DRAGGED BY THE OTHER TWO,./Results/examples/pair_048_orig_F.wav,./Results/examples/pair_048_trans_F2M.wav,3.73
+49,5338,F,F2M,IT WAS ONE OF THOSE EFFECTS WHICH A PAINTER LOVES TO REPRESENT AND MINGLED WELL ,./Results/examples/pair_049_orig_F.wav,./Results/examples/pair_049_trans_F2M.wav,6.0
+50,1919,F,F2M,IF THE QUENELLES ARE NOT FIRM ENOUGH ADD THE YOLK OF ANOTHER EGG BUT OMIT THE WH,./Results/examples/pair_050_orig_F.wav,./Results/examples/pair_050_trans_F2M.wav,6.0
+51,652,M,M2F,IN ADDITION TO ABALONE'S THE HOF BRAU MAKES A SPECIALTY OF LITTLE OREGON CRAWFIS,./Results/examples/pair_051_orig_M.wav,./Results/examples/pair_051_trans_M2F.wav,5.09
+52,3170,M,M2F,OUR SCANDALOUS PROCEEDINGS OFTEN EXPOSED US TO THE GREATEST DANGER,./Results/examples/pair_052_orig_M.wav,./Results/examples/pair_052_trans_M2F.wav,4.165
+53,8297,M,M2F,IN THE MEANTIME AFTER WHAT MISSUS PRESTY HAD CONFESSED THE CRUEL FALSEHOOD WHICH,./Results/examples/pair_053_orig_M.wav,./Results/examples/pair_053_trans_M2F.wav,6.0
+54,8297,M,M2F,SHE SHALL HAVE YOUR MESSAGE ALL THAT I CAN DO TO PERSUADE HER SHALL BE DONE,./Results/examples/pair_054_orig_M.wav,./Results/examples/pair_054_trans_M2F.wav,4.88
+55,3853,F,F2M,HE WAS NOT AS UNMOVED AS HE SEEMED BY THE GENERAL EXCITEMENT AND HAD FELT SUNDRY,./Results/examples/pair_055_orig_F.wav,./Results/examples/pair_055_trans_F2M.wav,6.0
+56,7850,F,F2M,THE CAPTURE OF LEE WAS A FAR MORE DIFFICULT UNDERTAKING,./Results/examples/pair_056_orig_F.wav,./Results/examples/pair_056_trans_F2M.wav,3.83
+57,2412,F,F2M,THE CHILDREN WERE INFINITE IN NUMBER AND EXCEEDINGLY MERRY I NEED HARDLY SAY THA,./Results/examples/pair_057_orig_F.wav,./Results/examples/pair_057_trans_F2M.wav,6.0
+58,1919,F,F2M,ILLUSTRATION THE LEMON,./Results/examples/pair_058_orig_F.wav,./Results/examples/pair_058_trans_F2M.wav,2.78
+59,1673,F,F2M,UNDER THE TUITION OF THE ABBOT SERAPION HE APPLIED HIMSELF TO ECCLESIASTICAL STU,./Results/examples/pair_059_orig_F.wav,./Results/examples/pair_059_trans_F2M.wav,6.0
+60,251,M,M2F,BRING IT TO THE PUBLIC ATTENTION DRAMATIZE IT,./Results/examples/pair_060_orig_M.wav,./Results/examples/pair_060_trans_M2F.wav,2.975
+61,3081,F,F2M,AND THE GLANCE SHE CAST HIM WHILE NOT MEETING HIS EYE SHOWED THAT SHE UNDERSTOOD,./Results/examples/pair_061_orig_F.wav,./Results/examples/pair_061_trans_F2M.wav,6.0
+62,1919,F,F2M,FRIED BREAD FOR BORDERS,./Results/examples/pair_062_orig_F.wav,./Results/examples/pair_062_trans_F2M.wav,2.36
+63,251,M,M2F,AND THE ONLY TRUCK WE HAD AVAILABLE WAS IN THAT BURNING SHED THE SUPERINTENDENT ,./Results/examples/pair_063_orig_M.wav,./Results/examples/pair_063_trans_M2F.wav,6.0
+64,1993,F,F2M,SHE OPENED THE DOOR SOFTLY THERE SAT MISSUS WILSON IN THE OLD ROCKING CHAIR WITH,./Results/examples/pair_064_orig_F.wav,./Results/examples/pair_064_trans_F2M.wav,6.0
+65,6241,M,M2F,WE TOOK OUR WAY THROUGH POOR AND SPARSE MEADOWS WHICH MADE A DESPERATE EFFORT EV,./Results/examples/pair_065_orig_M.wav,./Results/examples/pair_065_trans_M2F.wav,5.515
+66,84,F,F2M,IT WAS SOMETHING TERRIBLE TO WITNESS THE SILENT AGONY THE MUTE DESPAIR OF NOIRTI,./Results/examples/pair_066_orig_F.wav,./Results/examples/pair_066_trans_F2M.wav,6.0
+67,3853,F,F2M,NOTHING CAN PART US ANY MORE NOT EVEN DEATH FOR LOVE LIKE OURS WILL LAST FOR EVE,./Results/examples/pair_067_orig_F.wav,./Results/examples/pair_067_trans_F2M.wav,5.66
+68,2277,F,F2M,A SHOP GIRL WAS THE DESTINY PREFIGURED FOR THE NEWCOMER,./Results/examples/pair_068_orig_F.wav,./Results/examples/pair_068_trans_F2M.wav,3.36
+69,422,M,M2F,EVERYWHERE THAT SLAVE MORALITY GAINS THE ASCENDANCY LANGUAGE SHOWS A TENDENCY TO,./Results/examples/pair_069_orig_M.wav,./Results/examples/pair_069_trans_M2F.wav,6.0
+70,3853,F,F2M,I FEEL LIKE A BOY OUT OF SCHOOL OR RATHER A MAN OUT OF PRISON AND MUST ENJOY MY ,./Results/examples/pair_070_orig_F.wav,./Results/examples/pair_070_trans_F2M.wav,5.85
+71,2428,M,M2F,IT IS FROM HER ACTION IN THAT MATTER THAT MY SUSPICION SPRINGS,./Results/examples/pair_071_orig_M.wav,./Results/examples/pair_071_trans_M2F.wav,4.84
+72,3000,M,M2F,THUS THE SHASTA RIVER ISSUES FROM A LARGE LAKE LIKE SPRING IN SHASTA VALLEY AND ,./Results/examples/pair_072_orig_M.wav,./Results/examples/pair_072_trans_M2F.wav,6.0
+73,8842,F,F2M,AND IF YOU HAVE TIME IT WOULD BE A GREAT SERVICE TO TRANSLATE THE ANALYSES OF TH,./Results/examples/pair_073_orig_F.wav,./Results/examples/pair_073_trans_F2M.wav,5.365
+74,1919,F,F2M,ILLUSTRATION GINGER,./Results/examples/pair_074_orig_F.wav,./Results/examples/pair_074_trans_F2M.wav,2.86
+75,7976,M,M2F,WE ARE GOING INTO THE FOREST TO HEW WOOD AND IN THE EVENING WHEN WE ARE READY WE,./Results/examples/pair_075_orig_M.wav,./Results/examples/pair_075_trans_M2F.wav,6.0
+76,84,F,F2M,MY FATHER HAS REVEALED THE CULPRIT'S NAME MY FATHER THIRSTS FOR REVENGE AS MUCH ,./Results/examples/pair_076_orig_F.wav,./Results/examples/pair_076_trans_F2M.wav,6.0
+77,2277,F,F2M,HE WOULD HAVE SOME ARRANGEMENT OF THIS THING,./Results/examples/pair_077_orig_F.wav,./Results/examples/pair_077_trans_F2M.wav,2.6
+78,6345,F,F2M,DO DRINK THIS AND THEN TELL ME PERHAPS I CAN HELP YOU,./Results/examples/pair_078_orig_F.wav,./Results/examples/pair_078_trans_F2M.wav,2.96
+79,2803,M,M2F,MY CHILD MY CHILD MURMURED LADY HELENA THE SAVAGES DID NOT KILL YOU,./Results/examples/pair_079_orig_M.wav,./Results/examples/pair_079_trans_M2F.wav,6.0
+80,2277,F,F2M,IT GAVE AN IMPOSING APPEARANCE TO MOST OF THE WHOLESALE HOUSES WHOSE OFFICES WER,./Results/examples/pair_080_orig_F.wav,./Results/examples/pair_080_trans_F2M.wav,6.0
+81,6241,M,M2F,NECESSITY HAD BECOME HIS GRIM MASTER AND THE FOLLOWING WEEK HE WAS GOING TO WORK,./Results/examples/pair_081_orig_M.wav,./Results/examples/pair_081_trans_M2F.wav,5.05
+82,5338,F,F2M,STABLES AND OTHER OFFICES OCCUPIED ANOTHER SIDE OF THE SQUARE,./Results/examples/pair_082_orig_F.wav,./Results/examples/pair_082_trans_F2M.wav,3.89
+83,3000,M,M2F,EVERY LANDSCAPE LOW AND HIGH SEEMS DOOMED TO BE TRAMPLED AND HARRIED,./Results/examples/pair_083_orig_M.wav,./Results/examples/pair_083_trans_M2F.wav,5.36
+84,84,F,F2M,BETWEEN HER STEPS AND MINE WERE NOT A HUNDRED WHEN EQUALLY THE MARGINS GAVE A TU,./Results/examples/pair_084_orig_F.wav,./Results/examples/pair_084_trans_F2M.wav,6.0
+85,777,M,M2F,WITH HIS ELBOW PRESENTING NO APPEARANCE OF A JOINT BUT MORE LIKE A BEND IN A DUM,./Results/examples/pair_085_orig_M.wav,./Results/examples/pair_085_trans_M2F.wav,6.0
+86,251,M,M2F,POINT OF CONTACT INQUIRED THE OTHER,./Results/examples/pair_086_orig_M.wav,./Results/examples/pair_086_trans_M2F.wav,3.25
+87,3576,F,F2M,GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT,./Results/examples/pair_087_orig_F.wav,./Results/examples/pair_087_trans_F2M.wav,6.0
+88,174,M,M2F,ALAS HE WALKED WITH NO LESS INDECISION THAN COSETTE,./Results/examples/pair_088_orig_M.wav,./Results/examples/pair_088_trans_M2F.wav,4.62
+89,251,M,M2F,INSIDE A SECRET ROCKET TELEMETERING DEVICE WAS MOUNTED ON ITS TEST STAND,./Results/examples/pair_089_orig_M.wav,./Results/examples/pair_089_trans_M2F.wav,5.48
+90,1462,F,F2M,I UNDERSTAND BARTLEY I WAS WRONG,./Results/examples/pair_090_orig_F.wav,./Results/examples/pair_090_trans_F2M.wav,2.705
+91,3536,F,F2M,DOES ONE MISTER SAMUEL BOZZLE LIVE HERE ASKED TREVELYAN,./Results/examples/pair_091_orig_F.wav,./Results/examples/pair_091_trans_F2M.wav,4.74
+92,5536,M,M2F,THEREFORE HE COURTS DEATH IN BATTLE ON THE OTHER HAND HE WOULD REGARD IT AS DISG,./Results/examples/pair_092_orig_M.wav,./Results/examples/pair_092_trans_M2F.wav,6.0
+93,3000,M,M2F,THE VIVID GREEN OF THE BOULDERS BENEATH THE WATER IS VERY STRIKING AND COLORS TH,./Results/examples/pair_093_orig_M.wav,./Results/examples/pair_093_trans_M2F.wav,6.0
+94,1919,F,F2M,THE LONG PEPPER IS LESS AROMATIC THAN THE BLACK BUT ITS OIL IS MORE PUNGENT,./Results/examples/pair_094_orig_F.wav,./Results/examples/pair_094_trans_F2M.wav,5.405
+95,2428,M,M2F,AND OF COURSE I HAD MY EXPECTATIONS AND SHE HAD HERS,./Results/examples/pair_095_orig_M.wav,./Results/examples/pair_095_trans_M2F.wav,5.075
+96,777,M,M2F,LOAFING WAS ALL VERY WELL FOR THESE FELLOWS WHO KNEW NOT MISTER VLADIMIR AND HAD,./Results/examples/pair_096_orig_M.wav,./Results/examples/pair_096_trans_M2F.wav,6.0
+97,3536,F,F2M,DRAT EM ALL WHAT IS IT THEY WANTS THEY DON'T KNOW WHAT THEY WANTS,./Results/examples/pair_097_orig_F.wav,./Results/examples/pair_097_trans_F2M.wav,3.785
+98,2428,M,M2F,I HAVE DRAWN UP A LIST OF ALL THE PEOPLE WHO OUGHT TO GIVE US A PRESENT AND I SH,./Results/examples/pair_098_orig_M.wav,./Results/examples/pair_098_trans_M2F.wav,6.0
+99,8842,F,F2M,THESE WILDERING PHANTASIES THEN CARRIED ME TO SEE MY LADY DEAD,./Results/examples/pair_099_orig_F.wav,./Results/examples/pair_099_trans_F2M.wav,3.7

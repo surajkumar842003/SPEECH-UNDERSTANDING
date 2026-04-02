@@ -1,0 +1,7 @@
+Metadata Field,Available,Coverage %,Quality (0-10),Debt Severity
+Gender,Yes,100,7,Low
+Age,No,0,0,High
+Dialect,No,0,0,High
+Accent,No,0,0,High
+Noise Level,No,0,0,High
+Recording Env,No,0,0,High

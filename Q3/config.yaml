@@ -1,0 +1,46 @@
+# ── Dataset ────────────────────────────────────────────────
+dataset:
+  url: "test-clean"
+  data_root: "./data"
+  max_audit_samples: 2620
+  max_demo_pairs: 100
+  max_train_samples: 2000
+  max_eval_pairs: 100
+
+# ── Audio ──────────────────────────────────────────────────
+audio:
+  sample_rate: 16000
+  max_duration_sec: 6
+  n_fft: 512
+  hop_length: 128
+  n_mels: 80
+
+# ── Privacy ────────────────────────────────────────────────
+privacy:
+  pitch_shift_steps: 3.5
+  bins_per_octave: 24
+
+# ── Training ──────────────────────────────────────────────
+training:
+  batch_size: 4
+  n_epochs: 3
+  learning_rate: 1.0e-5
+  lambda_fair: 0.5
+  grad_clip: 1.0
+  model_name: "facebook/wav2vec2-base-960h"
+  freeze_feature_encoder: true
+  model_save_dir: "./Results/best_model"
+
+# ── HuggingFace ────────────────────────────────────────────
+huggingface:
+  repo_name: "wav2vec2-fairness-q3"
+  private: true
+
+# ── Output ─────────────────────────────────────────────────
+output:
+  output_dir: "./Results/output"
+  examples_dir: "./Results/examples"
+  eval_dir: "./Results/output/evaluation"
+
+# ── Misc ───────────────────────────────────────────────────
+seed: 42

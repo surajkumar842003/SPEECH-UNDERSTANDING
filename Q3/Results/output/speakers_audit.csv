@@ -1,0 +1,41 @@
+speaker_id,gender,subset,minutes,name
+61,M,test-clean,8.08,Paul-Gabriel Wiener
+121,F,test-clean,8.01,Nikolle Doolin
+237,F,test-clean,8.02,rachelellen
+260,M,test-clean,8.05,Brad Bush
+672,M,test-clean,8.27,Taylor Burton-Edward
+908,M,test-clean,8.05,Sam Stinson
+1089,M,test-clean,8.05,Peter Bobbe
+1188,M,test-clean,8.2,Duncan Murrell
+1221,F,test-clean,8.07,Dianne
+1284,F,test-clean,8.16,Daniel Anaya
+1320,M,test-clean,8.02,number6
+1580,F,test-clean,8.07,TinyPines
+1995,F,test-clean,8.06,AJai Hilton
+2094,F,test-clean,8.09,amycsj
+2300,M,test-clean,8.19,Mitchell L Leopard
+2830,M,test-clean,8.04,Tim Perkins
+2961,F,test-clean,8.07,Leni
+3570,F,test-clean,8.05,sarac
+3575,F,test-clean,8.06,supergirl
+3729,F,test-clean,8.03,Heather Hogan
+4077,M,test-clean,8.14,Nathan Markham
+4446,F,test-clean,8.0,Jen Maxwell
+4507,F,test-clean,8.05,Rachel Nelson-Smith
+4970,F,test-clean,8.15,airandwaters
+4992,F,test-clean,8.21,Joyce Martin
+5105,M,test-clean,8.12,elongman
+5142,F,test-clean,8.07,Mary Ballard-Johansson
+5639,M,test-clean,8.28,Ulf Bjorklund
+5683,F,test-clean,8.01,Rachael Lapidis
+6829,F,test-clean,8.24,LadyBug
+6930,M,test-clean,8.0,Nolan Fout
+7021,M,test-clean,8.14,Nodo420
+7127,M,test-clean,8.32,Bill Kneeland
+7176,M,test-clean,8.06,KalenXI
+7729,M,test-clean,8.17,Tim Bower
+8224,M,test-clean,8.24,Leanne Kinkopf
+8230,M,test-clean,8.25,David Jenkins
+8455,M,test-clean,8.03,thecheops
+8463,F,test-clean,8.05,Michele Fry
+8555,F,test-clean,8.03,Michelle Goode
